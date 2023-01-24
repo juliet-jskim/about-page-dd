@@ -1,0 +1,64 @@
+[
+    {
+        "quote": "D.W.I.G.H.T : Determined. Worker. Intense. Good worker. Hard worker. Terrific.",
+        "firstName": "Dwight",
+        "lastName": "Schrute",
+        "department": "Assistant to the Regional Manager",
+        "specialSkills": "Beet farming",
+        "image": "/employees/dwight.png"
+    },
+
+    {
+        "quote": "That's what she said",
+        "firstName": "Michael",
+        "lastName": "Scott",
+        "department": "Regional Manager",
+        "specialSkills": "Ice skating",
+        "image": "/employees/michael.png"
+    },
+
+    {
+        "quote": "You've got a Thai woman, out the back. Sockee! Sockee!  Sockee!... is her name. Okay? She's administering massage, alright, if you need it. If you don't, whatever, just talk to her! She's a person!",
+        "firstName": "Nellie",
+        "lastName": "Bertram",
+        "department": "Projects manager",
+        "specialSkills": "Radio show hosting",
+        "image": "/employees/nellie.png"
+    },
+
+    {
+        "quote": "Dwight tried to kiss me.",
+        "firstName": "Jim",
+        "lastName": "Halpert",
+        "department": "Paper Salesman",
+        "specialSkills": "Prankster",
+        "image": "/employees/jim.png"
+    },
+    
+    {
+        "quote": "I feel God in this Chili's tonight.",
+        "firstName": "Pam",
+        "lastName": "Beasley",
+        "department": "Receptionist",
+        "specialSkills": "Painting",
+        "image": "/employees/pam.png"
+    },
+    
+    {
+        "quote": "Nope, it's not Ashton Kutcher, it's Kevin Malone equally handsome, equally smart.",
+        "firstName": "Kevin",
+        "lastName": "Malone",
+        "department": "Accounting",
+        "specialSkills": "Dealer",
+        "image": "/employees/kevin.png"
+    },
+    
+    {
+        "quote": "If I can't scuba, then what's this all been about? What have I been working toward?",
+        "firstName": "Creed",
+        "lastName": "Bratton",
+        "department": "Quabity Assuance",
+        "specialSkills": "Do not ask",
+        "image": "/employees/creed.png"
+    }
+]

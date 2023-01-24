@@ -1,0 +1,7 @@
+.employee__container{
+    display: flex;
+    gap: 50px;
+    max-width: 520px;
+    flex-direction: column;
+}
+
